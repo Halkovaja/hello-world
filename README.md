@@ -1,3 +1,4 @@
 # hello-world
 first steps with github
-Halkohere, I like coffee and vodka.
+
+Halko here, I like coffee and vodka.
